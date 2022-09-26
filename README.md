@@ -1,2 +1,2 @@
 # neuron-webs
-My practice with neuron webs
+My practice with neural webs
